@@ -1,6 +1,11 @@
 # Strings
 name = "Andy"
+
+
 fav_food = "Pizza"
+# reassigned
+fav_food = "Wings"
+
 color_of_shoes = "blue"
 
 # Integers
@@ -17,3 +22,9 @@ precipitation_inches = 1.6
 over_25_years = true
 cat_owner = false
 buffs_fan = true
+
+puts name
+puts fav_food
+puts bank_statement
+puts cat_owner
+
