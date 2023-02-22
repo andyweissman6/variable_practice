@@ -13,3 +13,7 @@ bank_statement = 420.69
 body_temp = 98.5
 precipitation_inches = 1.6
 
+# Booleans
+over_25_years = true
+cat_owner = false
+buffs_fan = true
